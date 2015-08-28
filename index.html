@@ -50,8 +50,8 @@
 		}).addTo(map);
 
 
-		// variables to change sizes
-		var icon_width = 30, icon_height = icon_width, icon_x = icon_width/2, icon_y = icon_height/2, popup_x = 0, popup_y = 0;
+		// variables to change sizes, assumes icons are all square
+		var icon_width = 40, icon_height = icon_width, icon_x = icon_width/2, icon_y = icon_height/2, popup_x = 0, popup_y = 0;
 
 		// make markers
 		L.marker([24.774092,121.047933],{title:"財團法人工業技術研究院",icon:L.icon({iconUrl:'http://raw.githubusercontent.com/532725/532725.github.io/master/001.jpg',iconSize:[icon_width,icon_height],iconAnchor:[icon_x,icon_y],popupAnchor:[popup_x,popup_y]})}).addTo(map).bindPopup("<b>財團法人工業技術研究院</b><br/><br/><b>簡介:</b>科技研發、產業服務");
