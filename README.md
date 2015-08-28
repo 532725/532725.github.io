@@ -10,6 +10,8 @@ When a company sends a new logo, download and then use Paint to create a square 
 
 To save even more space, I then used FileMind QuickFix to remove unnecessary EXIF metadata from the .jpg files outputted by XnView.
 
+If there is a new TRIPLE member logo, either replace the file 000_75px.jpg in the repository, or add a new file to the repository and change the URL in cell I2 accordingly.
+
 Spreadsheet:
 
 The highlighted columns must be filled in manually with the appropriate information, then the spreadsheet will automatically generate an HTML string in Column S that can be added to the HTML code to accomodate the new TRIPLE member or member logo.
