@@ -1,5 +1,6 @@
-# 532725.github.io
-Logos for the manufacturers map
+# See the website live at 532725.github.io
+
+Manufacturers map
 
 Follow the instructions on the spreadsheet for new members or new logos.
 
