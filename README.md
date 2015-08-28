@@ -1,6 +1,6 @@
 # See the map live at 532725.github.io
 
-Manufacturers map
+TRIPLE Members Map
 
 Follow the instructions on the spreadsheet for new members or new logos.
 
