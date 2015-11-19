@@ -21,7 +21,7 @@
 	<div>
 	<p><b>Map of TRIPLE Members</b></p>
 	<p>Scroll to zoom. Hover for company name and click for company description.</p>
-	<p id="date"></p>
+	<p>Members without a logo are represented by the TRIPLE Member logo. Last updated November 2015.</p>
 	<p>Email DianaQPan@itri.org.tw if you would like to learn more about a TRIPLE member.</p>
 	</div>
 
@@ -29,14 +29,6 @@
 	<div id="map" style="width: 810px; height: 500px"></div>
 
 	<script>
-
-		// explain logo and updated recently
-		var months = ['January', 'February', 'March', 'April', 'May', 'June',
-			'July', 'August', 'September', 'October', 'November', 'December'];
-    	var date = new Date();
-    	document.getElementById("date").innerHTML = "Members without a logo are"
-    		+ "represented by the TRIPLE Member logo. Last updated "
-    		+ months[date.getMonth()] + " " + date.getFullYear() + ".";
 
 		// make map
 		var map = L.map('map', {
