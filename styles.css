@@ -1,0 +1,17 @@
+body {
+  background-color: #ececec;
+  font-family: "ff-tisa-web-pro", Georgia, serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #191919;
+}
+
+.center-div {
+  position:absolute;
+  width:300px;
+  height:200px;
+  z-index:15;
+  top:50%;
+  left:50%;
+  margin:-100px 0 0 -150px;
+}

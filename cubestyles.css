@@ -1,0 +1,17 @@
+body {
+  background-color: #ececec;
+  font-family: "ff-tisa-web-pro", Georgia, serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #191919;
+}
+
+.center-div {
+  max-width: 512px;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.bor {
+  border: solid 2px #ccc;
+}
