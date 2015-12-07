@@ -8,10 +8,10 @@ body {
 
 .center-div {
   position:absolute;
-  width:560px;
+  width:600px;
   height:200px;
   z-index:15;
   top:50%;
   left:50%;
-  margin:-100px 0 0 -280px;
+  margin:-100px 0 0 -300px;
 }
